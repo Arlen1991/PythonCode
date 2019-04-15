@@ -1,0 +1,6 @@
+1.字符格式化输出
+占位符:
+%s  s = string
+%d  d = digit
+%f  f = float
+
